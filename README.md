@@ -1,6 +1,9 @@
 My todo app.
+
 Built with React, FastAPI, Postgres
+
 to start. `docker-compose up --build`
+
 to see the webpage. go to  `http://localhost:3000/`
 
 
