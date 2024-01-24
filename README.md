@@ -1,4 +1,4 @@
-My todo app.
+My todo app. (had issues connecting to db)
 
 Built with React, FastAPI, Postgres
 
