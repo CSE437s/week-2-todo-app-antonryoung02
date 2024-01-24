@@ -1,0 +1,8 @@
+.todo-div {
+    display:flex;
+    width:80%;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    border: 1px solid black;
+}

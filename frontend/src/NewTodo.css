@@ -1,0 +1,18 @@
+.new-todo-form {
+    display:flex;
+    flex-direction: row;
+    width:70%;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+.todo-form-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
